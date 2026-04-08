@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Creative and versatile UI/UX & Graphic Designer with 5+ years of experience in visual design, mobile UI, website layouts, social media branding, and digital marketing. Strong ability to convert ideas into clean, engaging, user-focused designs. Skilled in both design systems and high-impact visuals.
         </p>
       </div>
     </div>
