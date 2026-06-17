@@ -24,14 +24,6 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Github <MdArrowOutward />
-            </a>
-            <a
               href="https://www.linkedin.com"
               target="_blank"
               data-cursor="disable"
@@ -40,12 +32,12 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://amanshar.my.canva.site/portfolio"
+              href="https://www.behance.net/amansharma300"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Portfolio <MdArrowOutward />
+              Behance <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
